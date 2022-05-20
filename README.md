@@ -6,22 +6,22 @@
 <div class="content-two">
                             <p>Some random information</p>
                             <div class="images">
-                                <div  class="img">
+                                <div  class="image">
                                     <img src="./img/Mount-Everest.jpg">
                                     <p>Mount Everest</p>
                                 </div>
     
-                                <div  class="img">
+                                <div  class="image">
                                     <img src="./img/k2.jpeg" >
                                     <p>Mount K2</p>
                                 </div>
     
-                                <div  class="img">
+                                <div  class="image">
                                     <img src="./img/kangchenjunga.jpeg" href="">
                                     <p>Mount Kangchenjunga</p>
                                 </div>
 
-                                <div  class="img">
+                                <div  class="image">
                                     <img src="./img/lhotse.jpeg">
                                     <p>Mount Lhotse</p>
                                 </div>
