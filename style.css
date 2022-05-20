@@ -1,13 +1,14 @@
 body { 
-    font-family:'Times New Roman', Times, serif; 
-    width:auto;     
+    font-family:monospace;
+    width:auto; 
+    background-image: linear-gradient(90deg, rgb(68, 0, 255),rgb(36, 23, 219));
 }
 
 
 .video {
     position: fixed;
     width: 100%;
-    height: 100%;
+    height: 50vh;
     object-fit: cover;
     top: 0;
     left: 0;
@@ -160,17 +161,14 @@ p {
 }
 
 .content-four {
-    
-   
     display:flex;
     justify-content:center;
     align-items:center;
 
 }
-.small-box {
 
-color:chocolate;
-opacity: ;
+.small-box {
+color:white;
 width:80%;
 border:4px solid skyblue;
 display:flex;
@@ -183,7 +181,6 @@ font-weight: bolder;
 
 #button-two {
     margin:30px;
-    
     opacity: 1;
     height:30px;
     border-radius:10px;
